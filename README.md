@@ -1,4 +1,4 @@
-# promoA-DA-modulo2-evaluacionI-sandra_moreno
+# Modulo2-evaluacionIntermedia-sandra_moreno
 
 Ejercicio Intermedio Módulo 2
 
