@@ -1,4 +1,4 @@
-# Modulo2-evaluacionIntermedia-sandra_moreno
+# Modulo2-EvaluacionIntermedia_SandraMoreno
 
 Ejercicio Intermedio Módulo 2
 
